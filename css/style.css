@@ -1,0 +1,158 @@
+*{margin: 0px; padding: 0px; font-family: "Open Sans";}
+.menu{
+    background: #2a3f54;
+    float: left;
+    padding: 18px;
+    text-align: center;
+    min-height: 100vh;
+    width: 155px;
+}
+.logo{}
+img.logo-painel{height: 80px;}
+.list-menu{
+    float: left;
+    width: 100%;
+    margin-top: 50px;
+}
+ul.menu-list{
+    list-style: none;
+}
+ul.menu-list li{}
+ul.menu-list li a{
+    font-size: 1.5em;
+    margin: 13px 0px;
+    float: left;
+    width: 100%;
+    color: #fff;
+}
+ul.menu-list li a i{
+    font-size: 1.6em;
+    display: block;
+}
+.content{
+    
+float: left;
+    
+background: #f7f7f7;
+    
+min-height: 100vh;
+    
+width: calc(100% - 155px);
+}
+.top-dashboard{
+    width: 100%;
+    float: left;
+    background: #ededed;
+    padding: 4px;
+}
+.user-dash{
+    float: right;
+}
+img.user-dashboard{
+    width: 55px;
+    float: left;
+    border-radius: 2em;
+}
+.dp-menu{}
+.user-name{
+    float: left;
+    margin: 18px 1px;
+}
+
+.content-ds{
+
+}
+.bred{padding: 6px;float: left;width: 100%;}
+a.bred{
+    
+float: left;
+    
+width: initial;
+    
+color: #2a3f54;
+}
+.title-pg{
+
+}
+h1.title-pg{
+
+font-size: 2em;
+
+margin: 10px;
+
+float: left;
+}
+.content-din{
+
+float: left;
+
+width: 100%;
+
+padding: 6px;
+}
+.rel-dash{
+    background: #fff;
+    float: left;
+    margin: 5px;
+    border-radius: 8px;
+    box-shadow: 1px 2px #ccc;
+    padding: 0px;
+}
+.rel-dash i{
+    font-size: 4em;
+    float: left;
+    background: #2a3f54;
+    color: #fff;
+    padding: 10px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.text-rel{
+    float: left;
+}
+.result{
+    font-size: 1.4em;
+    margin: 12px;
+}
+.result-ds{
+    font-size: 1.4em;
+    margin: 10px;
+}
+.bg-white{
+    background: #fff;
+}
+.form-search{}
+.form-search form{
+    padding: 15px;
+}
+.form-search form input{
+}
+
+.bt-edit{
+
+color: #38832a;
+
+padding: 5px;
+}
+.bt-delete{
+    
+color: #e21919;
+    
+padding: 5px;
+}
+.btn-insert{
+    
+color: #fff;
+}
+.class-insert{
+    
+float: left;
+    
+background-color: #337ab7;
+    
+border-radius: 3px;
+    
+padding: 5px;
+    
+margin: 5px 0px;
+}

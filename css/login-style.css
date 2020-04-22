@@ -1,0 +1,42 @@
+.bg-login{background-color: #2a3f54;}
+.login{
+    background-color: #2a3f54;
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 10px;
+}
+div.image-login{text-align: center;padding: 10px;}
+img.img-login{
+    max-width: 176px;
+}
+form.form-login{
+    margin-top: 14px;
+}
+form.form-login input{
+    width: 100%;
+    margin: 8px 0px;
+    padding: 10px;
+    font-size: 0.8em;
+    color:  #2a3f54;
+    border-radius: 10px;
+    border: 1px solid #ffff;
+    height: 35px;
+    background: #364e66;
+}
+form.form-login button{
+    padding: 10px 60px;
+    font-size: .8em;
+    font-weight: bold;
+    color: #fff;
+    background: #e1ab12;
+    border: none;
+    border-radius: 7px;
+    height: 45px;
+    margin: 10px 0px;
+}
+.rel-pass{
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    margin: 10px 0px;
+}
